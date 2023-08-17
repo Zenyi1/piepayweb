@@ -195,4 +195,5 @@ background: linear-gradient(0deg, rgba(255,186,134,1) 0%, rgba(246,99,92,1) 100%
   display: flex;
   align-items: center;
   justify-content: center;
+  font-weight: 400;
 }
